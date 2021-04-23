@@ -1,0 +1,8 @@
+# CSC110 Final Project: The Relationship Between Global Glacier Mass Changes and Precipitation in Canada by Zachary Lee
+
+# Testing and code checking
+pytest
+python-ta
+
+# Graphics and data visualization
+plotly
